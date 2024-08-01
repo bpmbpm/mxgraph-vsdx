@@ -1,4 +1,4 @@
 // JavaScript Document
-//   alert( 'Привет World' );
+//   alert( 'xxx' );
 import doImportVisio from "mxgraph-vsdx";
-// console.log('Hello, World!');
+console.log('Hello doImportVisio');
